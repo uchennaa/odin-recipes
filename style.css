@@ -1,0 +1,29 @@
+.odin {
+    color: beige;
+    font-size: 22px;
+    background-color: rgb(196, 117, 241);
+}
+
+ul .done {
+    color: rgb(61, 141, 146);
+    background-color: rgb(117, 241, 162);
+    font-family: Verdana, sans-serif;
+    font-size: 30px;
+    text-align: right;
+}
+
+ul .one {
+    background-color: rgb(241, 229, 117);
+}
+
+.two {
+    color: rgb(206, 32, 139);
+    font-size: 30px;
+    background-color: rgb(138, 170, 238);
+    font-family:'Courier New', Courier, monospace;
+}
+
+h2 {
+    color:sandybrown;
+    font-weight: 200;
+}
